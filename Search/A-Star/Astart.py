@@ -3,7 +3,7 @@ import math
 from queue import PriorityQueue
 
 # Definição do tamanho da janela (900x900 pixels)
-WIDTH = 900
+WIDTH = 600
 WIN = pygame.display.set_mode((WIDTH, WIDTH))
 pygame.display.set_caption("A* Path Finding Algorithm")
 
